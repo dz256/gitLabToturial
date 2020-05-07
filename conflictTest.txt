@@ -1,0 +1,15 @@
+This file is to demonstrate what happens in a conflict
+
+Line #1 - change me
+
+In the middle we have tones of code! so much of it!
+We have nested functions, enough loops to make you sick,
+parallel processing, defining models with 45 parameters or more 
+and all writting in a launguige you never coded in before. 
+0% chance you will read through this code. 
+
+Line #2 - change me
+
+And the nightmareish code continues...
+seriously, at this point you start wondering if can sue whoever wrote 
+This for emotional damage. 
