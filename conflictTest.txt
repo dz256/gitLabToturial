@@ -1,6 +1,6 @@
 This file is to demonstrate what happens in a conflict
 
-Line #1 - bug in the code
+Line #1 - bug-fix for this line of code
 
 In the middle we have tones of code! so much of it!
 We have nested functions, enough loops to make you sick,
