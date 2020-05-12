@@ -1,7 +1,7 @@
 This file is to demonstrate what happens in a conflict
 
 
-Line #1 - This is a conflict, really bad code with typos
+Line #1 -:DDDDD
 
 In the middle we have tones of code! so much of it!
 We have nested functions, enough loops to make you sick,
