@@ -1,7 +1,9 @@
 This file is to demonstrate what happens in a conflict
 
+<<<<<<< HEAD
 
-Line #1 - change me - Athif was here !
+Line #1 - This is a conflict, really bad code with typos
+>>>>>>> 8eee7a82e1325c130e2d783a8207a4aa3aeff050
 
 In the middle we have tones of code! so much of it!
 We have nested functions, enough loops to make you sick,
