@@ -1,7 +1,8 @@
 This file is to demonstrate what happens in a conflict
 
 
-Line #1 - change me! I have changed
+
+Line #1 - This is a conflict, really bad code with typos
 
 In the middle we have tones of code! so much of it!
 We have nested functions, enough loops to make you sick,
@@ -9,7 +10,8 @@ parallel processing, defining models with 45 parameters or more
 and all writting in a launguige you never coded in before. 
 0% chance you will read through this code. 
 
-Line #2 - change me! second change
+
+Line #2 - this is a nobel prize worthy prose
 
 And the nightmareish code continues...
 seriously, at this point you start wondering if can sue whoever wrote 
