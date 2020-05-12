@@ -9,7 +9,7 @@ parallel processing, defining models with 45 parameters or more
 and all writting in a launguige you never coded in before. 
 0% chance you will read through this code. 
 
-Line #2 - this is a nobel prize worthy prose
+Line #2 - Conflict for beccs
 
 And the nightmareish code continues...
 seriously, at this point you start wondering if can sue whoever wrote 
