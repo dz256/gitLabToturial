@@ -1,6 +1,9 @@
 This file is to demonstrate what happens in a conflict
 
-Line #1 - This is a conflict, really bad code with typos and other stuff
+
+
+Line #1 - I'm creating a conflicr on purpus
+
 
 In the middle we have tones of code! so much of it!
 We have nested functions, enough loops to make you sick,
@@ -8,7 +11,7 @@ parallel processing, defining models with 45 parameters or more
 and all writting in a launguige you never coded in before. 
 0% chance you will read through this code. 
 
-Line #2 - Conflict for beccs
+Line #2 - this line is different too
 
 And the nightmareish code continues...My worst nightmare has come true
 seriously, at this point you start wondering if can sue whoever wrote 
