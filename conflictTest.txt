@@ -1,6 +1,6 @@
 This file is to demonstrate what happens in a conflict
 
-Line #1 - This is a conflict, really bad code with typos
+Line #1 - This is a conflict, really bad code with typos and other stuff
 
 In the middle we have tones of code! so much of it!
 We have nested functions, enough loops to make you sick,
@@ -10,6 +10,6 @@ and all writting in a launguige you never coded in before.
 
 Line #2 - Conflict for beccs
 
-And the nightmareish code continues...
+And the nightmareish code continues...My worst nightmare has come true
 seriously, at this point you start wondering if can sue whoever wrote 
 This for emotional damage. 
